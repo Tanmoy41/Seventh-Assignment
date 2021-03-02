@@ -1,0 +1,137 @@
+[
+  {
+    "index": 0,
+    "picture": "https://www.fcbarcelona.com/photo-resources/2021/01/13/21ec6cc2-dcb3-4196-83e8-693733a9574c/2021-01-13-R.-SOCIEDAD-BARCELONA-42-min.JPG?width=1200&height=750",
+    "name": "Ter Stegan",
+    "age": 28,
+    "gender": "male",
+    "salary": 400000,
+    "countryName": "Germany"
+  },
+  {
+    "index": 1,
+    "picture": "https://staticg.sportskeeda.com/editor/2021/01/9b1ca-16119916634426-800.jpg",
+    "name": "Sergino Dest",
+    "age": 20,
+    "gender": "male",
+    "salary": "$200000.60",
+    "countryName": "America"
+  },
+  {
+    "index": 2,
+    "picture": "https://icdn.football-espana.net/wp-content/uploads/2020/06/Pique-Sevilla.jpg",
+    "name": "Gerard Pique",
+    "age": 34,
+    "gender": "male",
+    "salary": "$500000.51",
+    "countryName": "Spain"
+  },
+  {
+    "index": 3,
+    "picture": "https://assets.laliga.com/squad/2020/t178/p445087/2048x2048/p445087_t178_2020_1_003_000.png",
+    "name": "Ronald Araujo",
+    "age": 20,
+    "gender": "male",
+    "salary": "$200000.34",
+    "countryName": "Urugay"
+  },
+  {
+    "index": 4,
+    "picture": "https://images.daznservices.com/di/library/omnisport/27/e9/sergio-busquets-cropped_1x8cbx9zdp52v1xcxn6i2ekcry.jpg?t=1759249197&quality=100",
+    "name": "Sergio Busquets",
+    "age": 33,
+    "gender": "male",
+    "salary": "$300000.14",
+    "countryName": "Spain"
+  },
+  {
+    "index": 5,
+    "picture": "https://i.insider.com/5d8cdd112e22af5d8a3a13f4?width=1136&format=jpeg",
+    "name": "Antoni Griezman",
+    "age": 28,
+    "gender": "male",
+    "salary": "$500000.78",
+    "countryName": "France"
+  },
+  {
+    "index": 6,
+    "picture": "https://cdn.vox-cdn.com/thumbor/k3HNZltXiXMF-kXHI8b0WE96YuU=/0x0:2133x3199/1200x800/filters:focal(679x508:1019x848)/cdn.vox-cdn.com/uploads/chorus_image/image/67697421/1281861403.jpg.0.jpg",
+    "name": "Mirlam Pijanic",
+    "age": 30,
+    "gender": "male",
+    "salary": "$200000.97",
+    "countryName": ""
+  },
+  {
+    "index": 7,
+    "picture": "https://www.thestatesman.com/wp-content/uploads/2018/02/Luis-Suarez-Barcelona-vs-Valencia-Copa-del-Rey.jpg",
+    "name": "Luis Suarez",
+    "age": 33,
+    "gender": "male",
+    "salary": "$500000.57",
+    "countryName": "Urugay"
+  },
+  {
+    "index": 8,
+    "picture": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5ec595d45f39760007b05c07%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D989%26cropX2%3D2480%26cropY1%3D74%26cropY2%3D1564",
+    "name": "Lionel Messi",
+    "age": 33,
+    "gender": "male",
+    "salary": "$800000.18",
+    "countryName": "Argentina"
+  },
+  {
+    "index": 9,
+    "picture": "https://assets.laliga.com/squad/2020/t178/p437765/2048x2225/p437765_t178_2020_1_001_000.png",
+    "name": "Riqui Puig",
+    "age": 21,
+    "gender": "male",
+    "salary": "$200000.12",
+    "countryName": "Spain"
+  },
+  {
+    "index": 10,
+    "picture": "https://images.daznservices.com/di/library/GOAL/3f/73/pedri-barcelona_1a5j0i1idpw5q1jngpsjep4prd.jpg?t=737580869&quality=100",
+    "name": "Pedri Gonjalez",
+    "age": 18,
+    "gender": "male",
+    "salary": "$100000.88",
+    "countryName": "Spain"
+  },
+  {
+    "index": 11,
+    "picture": "https://www.thesun.co.uk/wp-content/uploads/2019/01/NINTCHDBPICT000463190268-e1548530103172.jpg",
+    "name": "Jordi Alba",
+    "age": 31,
+    "gender": "male",
+    "salary": "$400000.02",
+    "countryName": "Spain"
+  },
+  {
+    "index": 12,
+    "picture": "https://images.daznservices.com/di/library/GOAL/7d/7f/frenkie-de-jong-barcelona-2020-21_1s1bxv4d7u9pf1vsvbfj4tc6n2.jpg?t=-418106427&quality=60&w=1200&h=800",
+    "name": "De Jong",
+    "age": 22,
+    "gender": "male",
+    "salary": "$400000.41",
+    "countryName": "Netherlands"
+  },
+  {
+    "index": 13,
+    "picture": "https://everythingbarca.com/wp-content/uploads/getty-images/2018/08/1207996487.jpeg",
+    "name": "Samuel Umititi",
+    "age": 32,
+    "gender": "male",
+    "salary": "$300000.91",
+    "countryName": "France"
+  },
+  {
+    "index": 14,
+    "picture": "https://icdn.football-espana.net/wp-content/uploads/2020/12/Oscar-Mingueza.gif",
+    "name": "Oscar Mingueza",
+    "age": 20,
+    "gender": "male",
+    "salary": "$100000.34",
+    "countryName": "Spain"
+  }
+]
