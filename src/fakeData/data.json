@@ -14,7 +14,7 @@
     "name": "Sergino Dest",
     "age": 20,
     "gender": "male",
-    "salary": "$200000.60",
+    "salary": 200000,
     "countryName": "America"
   },
   {
@@ -23,7 +23,7 @@
     "name": "Gerard Pique",
     "age": 34,
     "gender": "male",
-    "salary": "$500000.51",
+    "salary": 500000,
     "countryName": "Spain"
   },
   {
@@ -32,7 +32,7 @@
     "name": "Ronald Araujo",
     "age": 20,
     "gender": "male",
-    "salary": "$200000.34",
+    "salary": 200000,
     "countryName": "Urugay"
   },
   {
@@ -41,7 +41,7 @@
     "name": "Sergio Busquets",
     "age": 33,
     "gender": "male",
-    "salary": "$300000.14",
+    "salary": 300000,
     "countryName": "Spain"
   },
   {
@@ -50,7 +50,7 @@
     "name": "Antoni Griezman",
     "age": 28,
     "gender": "male",
-    "salary": "$500000.78",
+    "salary": 500000,
     "countryName": "France"
   },
   {
@@ -59,7 +59,7 @@
     "name": "Mirlam Pijanic",
     "age": 30,
     "gender": "male",
-    "salary": "$200000.97",
+    "salary": 200000,
     "countryName": ""
   },
   {
@@ -68,7 +68,7 @@
     "name": "Luis Suarez",
     "age": 33,
     "gender": "male",
-    "salary": "$500000.57",
+    "salary": 500000,
     "countryName": "Urugay"
   },
   {
@@ -77,7 +77,7 @@
     "name": "Lionel Messi",
     "age": 33,
     "gender": "male",
-    "salary": "$800000.18",
+    "salary": 800000,
     "countryName": "Argentina"
   },
   {
@@ -86,16 +86,16 @@
     "name": "Riqui Puig",
     "age": 21,
     "gender": "male",
-    "salary": "$200000.12",
+    "salary": 200000,
     "countryName": "Spain"
   },
   {
     "index": 10,
     "picture": "https://images.daznservices.com/di/library/GOAL/3f/73/pedri-barcelona_1a5j0i1idpw5q1jngpsjep4prd.jpg?t=737580869&quality=100",
-    "name": "Pedri Gonjalez",
+    "name": "Pedri Gonjalej",
     "age": 18,
     "gender": "male",
-    "salary": "$100000.88",
+    "salary": 100000,
     "countryName": "Spain"
   },
   {
@@ -104,7 +104,7 @@
     "name": "Jordi Alba",
     "age": 31,
     "gender": "male",
-    "salary": "$400000.02",
+    "salary": 400000,
     "countryName": "Spain"
   },
   {
@@ -113,7 +113,7 @@
     "name": "De Jong",
     "age": 22,
     "gender": "male",
-    "salary": "$400000.41",
+    "salary": 400000,
     "countryName": "Netherlands"
   },
   {
@@ -122,7 +122,7 @@
     "name": "Samuel Umititi",
     "age": 32,
     "gender": "male",
-    "salary": "$300000.91",
+    "salary": 300000,
     "countryName": "France"
   },
   {
@@ -131,7 +131,7 @@
     "name": "Oscar Mingueza",
     "age": 20,
     "gender": "male",
-    "salary": "$100000.34",
+    "salary": 100000,
     "countryName": "Spain"
   }
 ]
